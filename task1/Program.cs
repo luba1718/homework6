@@ -16,7 +16,6 @@ for (int i = 0; i < numbers.Length; i++)
 Console.WriteLine();
 Console.WriteLine($"количество значений больше 0 = {sum}");
 
-
 int[] StringOfNum(string enter)
 {
     int count = 1;
